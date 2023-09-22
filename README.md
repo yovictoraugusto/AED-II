@@ -4,4 +4,4 @@ Algoritmos abordados na disciplina de Algoritmos e Estrutura de Dados II
 - [X] Select
 - [X] Bubble
 - Buscadores:
-- [] Busca Sequencial
+- [ ] Busca Sequencial
