@@ -5,7 +5,7 @@ Algoritmos abordados na disciplina de Algoritmos e Estrutura de Dados II
 - [ ] Insert
 - [ ] Shell
 - [X] Bubble
-- [ ] Merge
+- [X] Merge
 - [ ] Heap
 - [ ] Quick
 - [ ] Counting
